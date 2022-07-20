@@ -1,5 +1,5 @@
 {
   "git.autorefresh": false,
-  "git.enabled": false,
+  "git.enabled": true,
   "prettier.printWidth": 120
 }
